@@ -1,0 +1,17 @@
+    mapping = {
+        Cell.EMPTY: ' ',
+        Cell.WALL:  '#',
+        Cell.BOX:   'O',       
+        Cell.PLAYER: 'Y',
+        Cell.TARGET: '*',
+        Cell.BOX_TARGET: 'X',
+        Cell.PLAYER_TARGET: 'Ж',
+        Cell.NONE: ''
+    }
+
+        def print(self):
+        for y in range(self.height):
+            s = []
+            for x in range(self.width):
+                s.append(self.mapping[self.get_cell(x, y)])
+            print(''.join(s))
