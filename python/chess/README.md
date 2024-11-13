@@ -74,7 +74,7 @@ EXE-файл будет создан в папке `dist`.
 
 ## Автор
 Алексей Куклин  
-Разработано с помощью Cursor IDE и AI ассистента Claude 3.5 Sonnet 20241022 (Anthropic)
+2024-11-13 с помощью Cursor AI и Claude 3.5 Sonnet 20241022 (Anthropic)
 
 ## Лицензия
 
