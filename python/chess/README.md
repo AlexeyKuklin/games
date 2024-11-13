@@ -15,20 +15,27 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-
+``` bash
 git clone https://github.com/alexeykuklin/python-chess.git
 cd python-chess
+```
 
 2. Установите зависимости:
+``` bash
 pip install -r requirements.txt
+```
 
 ## Запуск
+``` bash
 python chess_game.py
+```
 
 ## Сборка EXE-файла
 
 Для создания исполняемого файла под Windows:
+``` bash
 python build.py
+```
 
 EXE-файл будет создан в папке `dist`.
 
