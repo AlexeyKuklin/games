@@ -43,8 +43,8 @@ python build.py
 - `build.py` - Скрипт для создания EXE файла
 
 ## Автор
-Алексей Куклин 2024-11-13  
-При помощи [Cursor AI](https://www.cursor.com/) и Claude-3.5-sonnet 20241022
+Алексей Куклин  
+2024-11-13 при помощи [Cursor AI](https://www.cursor.com/) и Claude-3.5-sonnet 20241022
 
 ## Лицензия
 MIT License
